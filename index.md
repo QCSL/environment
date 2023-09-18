@@ -45,7 +45,7 @@ conda方法：
       `sudo apt install git`
 
 ######
-'cd'#进去主目录
+`cd`#进去主目录
 `mkdir anaconda`#创建anaconda文件夹
 `cd anaconda`#进入anaconda文件夹
 `wget https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/Anaconda3-5.3.1-Linux-x86_64.sh`#下载anaconda
