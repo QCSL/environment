@@ -83,5 +83,5 @@ conda方法：
 效果图如下
 [Image and Code](https://matplotlib.org/stable/gallery/lines_bars_and_markers/bar_colors.html#sphx-glr-gallery-lines-bars-and-markers-bar-colors-py)
 
->[系统可以用数除法的链接](https://blog.csdn.net/Owen_Q/article/details/104151834)
+>[系统可以用汉语输入法的链接](https://blog.csdn.net/Owen_Q/article/details/104151834)
 
