@@ -57,6 +57,7 @@ conda方法：
 `jupyterlab`打开jupyterlab
  
 ```
+
 6. 打开之后建立新的文本 测试如下代码
 ```
        import matplotlib.pyplot as plt
