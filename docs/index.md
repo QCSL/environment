@@ -10,9 +10,12 @@
 # 安装虚拟机和ubuntu os系统
 1. Windows环境下安装VirtualBox最新版本，找自己是什么电脑比如windows [ 安装VirtualBox链接](https://www.oracle.com/jp/virtualization/technologies/vm/downloads/virtualbox-downloads.html)
 2. 下载 ubuntu20.04 ios 镜像文件 Desktop image [下载ubuntu20.04链接](https://releases.ubuntu.com/focal/)
-3. 按照配置指南 安装ubuntu os （内存4GB以上，最好选择English 语言， 中文今后命令操作会很麻烦。 密码简单一点比较好比如1234， 最好不使用特殊字符）[参考blog](https://blog.csdn.net/qq_45373920/article/details/122409002)
+3. 按照配置指南 安装ubuntu os （内存4GB以上，最好选择English 语言， 中文今后命令操作会很麻烦。 密码简单一点比较好比如1234， 最好不使用特殊字符）[参考blog](https://blog.csdn.net/qq_41528443/article/details/131962903)
 4. 进入ubuntu系统在程序里 找到终端（terminal）打开,执行如下命令 `sudo apt update`和`sudo apt upgrade`
-5. 然后安装 pyenv， python3 ，pip3，git，pandas，scikit-learn，matplotlib，jupyter， 等命令群
+
+>无法上网请参考[博客blog](https://blog.csdn.net/qifei717/article/details/124974384)
+
+6. 然后安装 pyenv， python3 ，pip3，git，pandas，scikit-learn，matplotlib，jupyter， 等命令群
 ```
 老师的方法：
 ###### git安装如下
@@ -80,5 +83,5 @@ conda方法：
 效果图如下
 [Image and Code](https://matplotlib.org/stable/gallery/lines_bars_and_markers/bar_colors.html#sphx-glr-gallery-lines-bars-and-markers-bar-colors-py)
 
-
+>[系统可以用数除法的链接](https://blog.csdn.net/Owen_Q/article/details/104151834)
 
