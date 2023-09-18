@@ -4,7 +4,7 @@
 3. 打开手动2，输入ip：188.114.96.179:8319，替换ip，之后就可以进行翻墙
 
 之后可以下载谷歌浏览器，注册一个谷歌邮箱账号，
-[一个gpy网址](https://poe.com/ChatGPT)
+[一个GPT网址](https://poe.com/ChatGPT)
 
 
 # 安装虚拟机和ubuntu os系统
@@ -16,7 +16,7 @@
 老师的方法:
 """
 
-  ##### 然后安装 pyenv， python3 ，pip3，git，pandas，scikit-learn，matplotlib，jupyter， 等命令群
+  然后安装 pyenv， python3 ，pip3，git，pandas，scikit-learn，matplotlib，jupyter， 等命令群
     ###### git安装如下
        sudo apt install git
 
