@@ -12,30 +12,27 @@
 2. 下载 ubuntu20.04 ios 镜像文件 Desktop image [下载ubuntu20.04链接](https://releases.ubuntu.com/focal/)
 3. 按照配置指南 安装ubuntu os （内存4GB以上，最好选择English 语言， 中文今后命令操作会很麻烦。 密码简单一点比较好比如1234， 最好不使用特殊字符）(参考blog)[]
 4. 进入ubuntu系统在程序里 找到终端（terminal）打开,执行如下命令 `sudo apt update`和`sudo apt upgrade`
-
-老师的方法:
-"""
-
-  然后安装 pyenv， python3 ，pip3，git，pandas，scikit-learn，matplotlib，jupyter， 等命令群
-    ###### git安装如下
-       sudo apt install git
+5. 然后安装 pyenv， python3 ，pip3，git，pandas，scikit-learn，matplotlib，jupyter， 等命令群
+> 老师的方法
+>>git安装如下
+>>`sudo apt install git`
 
     ###### pip3 安装如下
-       sudo apt install python3-pip
+       `sudo apt install python3-pip`
 
     ###### pyenv 安装方法看 手册 
        [参考pyenv安装手册]（https://github.com/pyenv/pyenv/wiki）
 
     ###### 然后在pyenv环境下安装python3
        比如执行如下命令
-         pyenv install --list
+         `pyenv install --list`
        然后选你想安装的版本
-         pyenv install 3.9.1
-         pyenv global 3.9.1
-         pyenv rehash
+         `pyenv install 3.9.1`
+         `pyenv global 3.9.1`
+         `pyenv rehash`
 
     ###### pandas，scikit-learn，matplotlib的话
-       pip3 install pandas,scikit-learn,matplotlib
+       `pip3 install pandas scikit-learn matplotlib`
 
     ###### jupyter 安装看官网指南
        [参考jupyter官方安装说明]（https://jupyter.org/）
