@@ -14,7 +14,8 @@
 4. 进入ubuntu系统在程序里 找到终端（terminal）打开,执行如下命令 `sudo apt update`和`sudo apt upgrade`
 
 老师的方法:
->        """##### 然后安装 pyenv， python3 ，pip3，git，pandas，scikit-learn，matplotlib，jupyter， 等命令群
+"""
+  ##### 然后安装 pyenv， python3 ，pip3，git，pandas，scikit-learn，matplotlib，jupyter， 等命令群
     ###### git安装如下
        sudo apt install git
 
@@ -36,7 +37,8 @@
        pip3 install pandas,scikit-learn,matplotlib
 
     ###### jupyter 安装看官网指南
-       [参考jupyter官方安装说明]（https://jupyter.org/）"""
+       [参考jupyter官方安装说明]（https://jupyter.org/）
+"""
 
 
 
