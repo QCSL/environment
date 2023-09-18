@@ -13,12 +13,15 @@
 3. 按照配置指南 安装ubuntu os （内存4GB以上，最好选择English 语言， 中文今后命令操作会很麻烦。 密码简单一点比较好比如1234， 最好不使用特殊字符）(参考blog)[]
 4. 进入ubuntu系统在程序里 找到终端（terminal）打开,执行如下命令 `sudo apt update`和`sudo apt upgrade`
 5. 然后安装 pyenv， python3 ，pip3，git，pandas，scikit-learn，matplotlib，jupyter， 等命令群
-> 老师的方法
+老师的方法:
+>
 >>git安装如下
+>>
 >>`sudo apt install git`
 
-    ###### pip3 安装如下
-       `sudo apt install python3-pip`
+>>pip3 安装如下
+>>
+>>`sudo apt install python3-pip`
 
     ###### pyenv 安装方法看 手册 
        [参考pyenv安装手册]（https://github.com/pyenv/pyenv/wiki）
