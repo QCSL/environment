@@ -17,7 +17,7 @@
 
 6. 然后安装 pyenv， python3 ，pip3，git，pandas，scikit-learn，matplotlib，jupyter， 等命令群
 ```
-老师的方法：
+[老师的方法](https://qcsl.github.io/environment/)：
 ###### git安装如下
       `sudo apt install git`
 
