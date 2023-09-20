@@ -16,8 +16,8 @@
 >无法上网请参考[博客blog](https://blog.csdn.net/qifei717/article/details/124974384)
 
 6. 然后安装 pyenv， python3 ，pip3，git，pandas，scikit-learn，matplotlib，jupyter， 等命令群
-```
 [老师的方法](https://qcsl.github.io/environment/)：
+```
 ###### git安装如下
       `sudo apt install git`
 
