@@ -16,6 +16,7 @@
 >无法上网请参考[博客blog](https://blog.csdn.net/qifei717/article/details/124974384)
 
 6. 然后安装 pyenv， python3 ，pip3，git，pandas，scikit-learn，matplotlib，jupyter， 等命令群
+
 [老师的方法](https://qcsl.github.io/environment/)：
 ```
 ###### git安装如下
@@ -85,3 +86,6 @@ conda方法：
 
 >[系统可以用汉语输入法的链接](https://blog.csdn.net/Owen_Q/article/details/104151834)
 
+>[jupyterlab使用教学](https://zhuanlan.zhihu.com/p/154515490?utm_id=0)
+>[python教学，这个为主](https://www.liaoxuefeng.com/wiki/1016959663602400)
+>[python教学，这个为辅](https://www.runoob.com/python/python-tutorial.html)
