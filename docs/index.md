@@ -57,7 +57,7 @@ conda方法：
 `conda update conda`#更新conda
 `conda create -n python39 python=3.9`#创建python3.9，环境名字为python39
 `source activate python39`#激活环境
-`pip install install pandas scikit-learn matplotlib numpys jupyterlab`#安装各种包
+`pip install pandas scikit-learn matplotlib numpys jupyterlab`#安装各种包
 `jupyterlab`打开jupyterlab
  
 ```
