@@ -52,7 +52,7 @@ conda方法：
 `cd`#进去主目录
 `mkdir anaconda`#创建anaconda文件夹
 `cd anaconda`#进入anaconda文件夹
-`wget https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/Anaconda3-5.3.1-Linux-x86_64.sh`或者`wget https://repo.anaconda.com/archive/Anaconda3-5.3.0-Linux-x86_64.sh`#下载anaconda
+`wget https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/Anaconda3-5.3.1-Linux-x86_64.sh`或者[https://blog.csdn.net/wyf2017/article/details/118676765]#下载anaconda
 `bash Anaconda3-5.3.1-Linux-x86_64.sh`然后一直点确定就行#类似解压文件
 `conda update conda`#更新conda
 `conda create -n python39 python=3.9`#创建python3.9，环境名字为python39
